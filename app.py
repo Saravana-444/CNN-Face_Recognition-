@@ -9,7 +9,7 @@ import os
 # -----------------------------
 # CONFIG
 # -----------------------------
-MODEL_URL = "https://drive.google.com/uc?id=1rGhi1n9Hy3Wu-vJDVShDD77-ANFES03r"
+MODEL_URL = "https://drive.google.com/uc?id=1h-Ewrt_0DmSFd7ZablaPes3RJW65lU7o"
 MODEL_PATH = "face_recognition_augmented_3class.h5"
 IMG_SIZE = 128
 
